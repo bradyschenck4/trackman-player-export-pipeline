@@ -184,10 +184,10 @@ The public repository includes synthetic example outputs to show the folder stru
 Example hitter output:
 
 ```text
-outputs/hitters/Alex Carter/
-├── carter_trackman.csv
-├── carter_trackman_clean.csv
-└── carter_summary.csv
+outputs/hitters/Mason Blake/
+├── blake_trackman.csv
+├── blake_trackman_clean.csv
+└── blake_summary.csv
 ```
 
 Example pitcher output:

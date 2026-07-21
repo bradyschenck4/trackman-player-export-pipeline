@@ -23,7 +23,7 @@ export_hitter_files <- function(trackman_data,
         "PlateLocSide", "PlateLocHeight",
         "Swing", "Whiff", "InZone", "Chase",
         "PlayResult", "TaggedHitType",
-        "ExitSpeed", "Angle", "Direction", "Distance",
+        "ExitSpeed", "Angle", "Direction", "Distance", "BattedBall",
         "HardHit", "SweetSpot", "QualityContact"
       ))
     ) %>%
